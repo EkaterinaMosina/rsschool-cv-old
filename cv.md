@@ -32,3 +32,18 @@ English: Intermediate
 
 ### Hobbies
 Reading, whiting
+
+### Сode
+```
+var updateGameState=function(guess,word,answerArray) {
+ var apperances=0;
+ for (var j=0;j<word.length;j++){
+ if (word[j]===guess) {
+answerArray[j]=guess;
+apperances++;
+}
+}
+ return apperances;
+};
+```
+
