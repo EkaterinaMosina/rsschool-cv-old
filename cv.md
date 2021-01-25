@@ -24,3 +24,11 @@ English: Intermediate
 - Photoshop
 
 ### Experience    
+
+### Soft skills
+- Critical thinking
+ - Creativity
+ - Flexibility
+
+### Hobbies
+Reading, whiting
