@@ -81,3 +81,18 @@ height: 400px;
     padding-bottom: 15px;
 }
 
+.footer-container {
+    background-color: rgb(235, 235, 235);
+    font-size: 1.4rem;
+}
+
+.code-examples {
+    display: block;
+   padding-left: 25px;
+    padding-top: 25px;
+}
+
+.code {
+    display: inline-block;
+    padding-left: 25px;
+}
